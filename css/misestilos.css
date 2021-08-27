@@ -19,6 +19,28 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     color: #6552C0;
 }
 
+/*Btn iconos*/
+
+.btn-icons .container
+{
+    padding-top: 1em;
+}
+
+.btn-icons .container .row .col button
+{       background-color: #E99497;
+        border: none; /* Remove borders */
+        color: white; /* White text */
+        padding: 12px 16px; /* Some padding */
+        font-size: 2em; /* Set a font size */
+        cursor: pointer; /* Mouse pointer on hover */
+}
+
+.btn-icons .container .row .col button:hover
+{
+      /* Darker background on mouse-over */
+        background-color: #F3C583;
+}   
+
 /*Primeros cards*/
 .cardprimeros
 {
@@ -312,3 +334,5 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
     transform-origin: -14vw 17vh;
     box-shadow: -6vmin 0 0.767499790138735vmin currentColor;
 }
+
+
