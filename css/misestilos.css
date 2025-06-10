@@ -59,41 +59,58 @@ background-position: 0 0, 40px 60px, 130px 270px, 70px 100px;
 
 .seccion-cards .bg-miestilo
 {    
-    background:#6F5AD3;
+    background:#8E7DBE;
     opacity: 0.8;
 }
 
 .seccion-cards .bg-miestilo1
 {    
-    background:#FFD96A;
+    background:#A6D6D6;
     opacity: 0.8;
 }
 
 
 .seccion-cards .bg-miestilo2
 {    
-    background:#59BB93;
+    background:#F4F8D3;
     opacity: 0.8;
 }
 
 .seccion-cards .bg-miestilo3
 {    
-    background:#FAAF3F;
+    background:#F7CFD8;
     opacity: 0.8;
 }
 
 .seccion-cards .bg-miestilo4
 {    
-    background:#27B7EB;
+    background:#9FB3DF;
     opacity: 0.8;
 }
 
 .seccion-cards .bg-miestilo5
 {    
-    background:#A882DD;
+    background:#9EC6F3;
     opacity: 0.8;
 }
 
+.seccion-cards .bg-miestilo6
+{    
+    background:#BDDDE4;
+    opacity: 0.8;
+}
+
+.seccion-cards .bg-miestilo7
+{    
+    background:#FFF1D5;
+    opacity: 0.8;
+}
+
+.seccion-cards .bg-miestilo8
+{    
+    background:#E5D9F2;
+    opacity: 0.8;
+}
 
 
 
